@@ -49,9 +49,7 @@
     body{
         padding-top: 100px;
     }
-    .s1{
-        /* margin-top: 100px; */
-    }
+
     .bg{
         background-image: url(../images/section1.webp);
         background-repeat: no-repeat;
@@ -727,9 +725,7 @@
         background-image: url(../images/coffee.jpg);
         
     }
-    .se1{
-        /* margin-top: 100px; */
-    }
+  
     .wrappers2{
         margin-top: 40px;
         padding: 50px;
